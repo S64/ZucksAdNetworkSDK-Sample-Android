@@ -61,4 +61,11 @@
         android:layout_height="wrap_content"
         android:text="Native Ad Sample"/>
 
+    <Button
+        android:id="@+id/button_rewarded_ad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rewarded Ad Sample"
+        tools:ignore="HardcodedText" />
+
 </LinearLayout>
